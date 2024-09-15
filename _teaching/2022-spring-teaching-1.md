@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to (Medical) Artificial Intelligence"
 permalink: /teaching/2022-spring-teaching-1
 venue: "SUSTech, Department of Computer Science and Engineering"
-date: 2022-03
+date: 2022-03-01
 location: "Shenzhen, China"
 ---
 
