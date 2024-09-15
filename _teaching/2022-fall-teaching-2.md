@@ -1,12 +1,14 @@
 ---
-title: "Teaching Assistant"
+title: "Multimedia Information Processing"
 collection: teaching
-type: "Multimedia Information Processing"
+type: "Teaching Assistant"
 permalink: /teaching/2022-fall-teaching-2
 venue: "SUSTech, Department of Computer Science and Engineering"
 date: 2022-09-01
 location: "Shenzhen, China"
 ---
+
+
 
 ## Duties
 
