@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiushi Nie"
+title: "Qiushi Nie 🤗"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern Univ
 
 As this is the last year of my master's degree, now I am actively looking for PhD opportunities! 
 
-## Research Interests
+## Research Interests 💻
 
 - Medical Image Analysis, Medical Image Registration, Artificial Intelligence
 
-## Education :classical_building:
+## Education 🏛
 
 - **Southern University of Science and Technology**, Shenzhen, China (09/2022 - 06/2025 (Expected))
   - M.S. in *Electronic Science and Technology*
@@ -28,7 +28,7 @@ As this is the last year of my master's degree, now I am actively looking for Ph
   - GPA: 3.86/4.0 (ranking ~5%)
   - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ)
 
-## Publications :page_with_curl:
+## Publications 📃
 
 [1] **Nie, Q.**, Zhang, X., Hu, Y. et al. **Medical image registration and its application in retinal images: a review.** *Vis. Comput. Ind. Biomed. Art* 7, 21 (2024). [https://doi.org/10.1186/s42492-024-00173-8](https://doi.org/10.1186/s42492-024-00173-8) (Accepted)
 
@@ -42,7 +42,7 @@ As this is the last year of my master's degree, now I am actively looking for Ph
 
 [6] Hu, Y., Dong, S., Gong, M., **Nie, Q.**, Liu, J. **Self-Supervised Structure-Preserved Image Registration Framework for Multimodal Retinal Images.** *2023 6th International Conference on Information Communication and Signal Processing (ICICSP)*. IEEE, 2023: 134-138. (Accepted)
 
-## Honors & Awards :trophy:
+## Honors & Awards 🏆
 
 - [2018-2020] The second prize of outstanding student scholarship in SUSTech
 - [2020-2021] The first prize of outstanding student scholarship in SUSTech
