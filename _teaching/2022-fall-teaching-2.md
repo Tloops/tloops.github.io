@@ -4,10 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-2
 venue: "SUSTech, Department of Computer Science and Engineering"
+date: 2022-09-01
 location: "Shenzhen, China"
 ---
 
-Teaching Assistant of **Introduction to Artificial Intelligence** and **Introduction to Medical Artificial Intelligence** in Fall 2022, Fall 2023, and Fall 2024.
+I was the Teaching Assistant in Fall 2022, Fall 2023, and Fall 2024.
 
 
 
@@ -18,4 +19,4 @@ Teaching Assistant of **Introduction to Artificial Intelligence** and **Introduc
   - Python,
   - Scikit-Learn,
   - and PyTorch
-- Participated in writing the textbooks for **Introduction to Artificial Intelligence**.
+- Participated in writing the textbook for **Introduction to Artificial Intelligence**.

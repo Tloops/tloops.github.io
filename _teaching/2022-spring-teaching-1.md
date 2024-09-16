@@ -4,10 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "SUSTech, Department of Computer Science and Engineering"
+date: 2022-03-01
 location: "Shenzhen, China"
 ---
 
-Teaching Assistant of **Multimedia Information Processing**  in Spring 2022, Spring 2023, and Spring 2024.
+I was the Teaching Assistant in Spring 2022, Spring 2023, and Spring 2024.
 
 
 
@@ -17,5 +18,5 @@ Teaching Assistant of **Multimedia Information Processing**  in Spring 2022, Spr
 - Gave lectures of state-of-the-art multimedia AI advancement 
   - e.g., Segment Anything Model (SAM) in Spring 2023. ([Download Slides](/files/SAMintro.pdf))
 
-- Writing the textbooks for this course (third author).
+- Writing the textbook for this course (third author).
 
