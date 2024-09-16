@@ -9,7 +9,9 @@ redirect_from:
 
 Hi there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). It's worth mentioning that I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1, 600+** (40% of total undergraduates) students in SUSTech had taken my classes. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
+I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). I am passionate about medical image analysis and eager to learn the state-of-the-art advances in deep learning.
+
+Remarkably, I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech had taken my classes. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
 
 As this is the last year of my master's degree, now I am actively looking for PhD opportunities! 
 
