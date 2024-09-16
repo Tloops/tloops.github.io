@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-2
 venue: "SUSTech, Department of Computer Science and Engineering"
-date: 
 location: "Shenzhen, China"
 ---
 
