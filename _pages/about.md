@@ -17,7 +17,7 @@ As this is the last year of my master's degree, now I am actively looking for Ph
 
 - Medical Image Analysis, Medical Image Registration, Artificial Intelligence
 
-## Education
+## Education :classical_building:
 
 - **Southern University of Science and Technology**, Shenzhen, China (09/2022 - 06/2025 (Expected))
   - M.S. in *Electronic Science and Technology*
@@ -28,11 +28,11 @@ As this is the last year of my master's degree, now I am actively looking for Ph
   - GPA: 3.86/4.0 (ranking ~5%)
   - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ)
 
-## Publications
+## Publications :page_with_curl:
 
-[1] **Nie, Q.**, Zhang, X., Hu, Y. et al. **Medical image registration and its application in retinal images: a review.** *Vis. Comput. Ind. Biomed. Art* 7, 21 (2024). https://doi.org/10.1186/s42492-024-00173-8 (Accepted)
+[1] **Nie, Q.**, Zhang, X., Hu, Y. et al. **Medical image registration and its application in retinal images: a review.** *Vis. Comput. Ind. Biomed. Art* 7, 21 (2024). [https://doi.org/10.1186/s42492-024-00173-8](https://doi.org/10.1186/s42492-024-00173-8) (Accepted)
 
-[2] **Nie, Q.**, Zhang, X., Chen, C. et al. **Reparameterized multi-scale transformer for deformable retinal image registration.** *Mach. Intell. Res.* (2024). https://doi.org/10.1007/s11633-024-1525-1 (Accepted)
+[2] **Nie, Q.**, Zhang, X., Chen, C. et al. **Reparameterized multi-scale transformer for deformable retinal image registration.** *Mach. Intell. Res.* (2024). [https://doi.org/10.1007/s11633-024-1525-1](https://doi.org/10.1007/s11633-024-1525-1) ([GitHub](https://github.com/Tloops/RMFormer)) (Accepted) 
 
 [3] Zhang, X., **Nie, Q.**, Xiao, Z., et al. **Dual-view pyramid pooling in deep neural networks for improved medical image classification and confidence calibration.** (2024) (Under Review, arXiv preprint available: [https://arxiv.org/abs/2408.02906](https://arxiv.org/abs/2408.02906))
 
@@ -42,7 +42,7 @@ As this is the last year of my master's degree, now I am actively looking for Ph
 
 [6] Hu, Y., Dong, S., Gong, M., **Nie, Q.**, Liu, J. **Self-Supervised Structure-Preserved Image Registration Framework for Multimodal Retinal Images.** *2023 6th International Conference on Information Communication and Signal Processing (ICICSP)*. IEEE, 2023: 134-138. (Accepted)
 
-## Honors & Awards
+## Honors & Awards :trophy:
 
 - [2018-2020] The second prize of outstanding student scholarship in SUSTech
 - [2020-2021] The first prize of outstanding student scholarship in SUSTech
