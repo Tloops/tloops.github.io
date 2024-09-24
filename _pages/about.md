@@ -9,15 +9,13 @@ redirect_from:
 
 Hi there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). I am passionate about medical image analysis and eager to learn the state-of-the-art advances in deep learning.
+I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). I am passionate about medical image analysis and eager to learn the state-of-the-art advances in deep learning. I'm currently working on Optical Coherence Tomography (OCT) segmentation. 
 
-Remarkably, I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech had taken my classes. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
-
-As this is the last year of my master's degree, now I am actively looking for PhD opportunities! 
+As this is the last year of my master's degree, now I am actively looking for PhD opportunities related to medical image analysis! 
 
 ## Research Interests 💻
 
-- Medical Image Analysis, Medical Image Registration, Artificial Intelligence
+- Medical Image Analysis, Medical Image Registration, Deep Learning
 
 ## Education 🏛
 
@@ -52,3 +50,7 @@ As this is the last year of my master's degree, now I am actively looking for Ph
 - [2022] The Top Ten Graduates Nomination Award in SUSTech
 - [2023] The Star of iMED Award (for those who contributed most in my research group iMED)
 - [2021-2023] The Outstanding Teaching Assistant in SUSTech
+
+## Highlights
+
+Remarkably, I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech had taken my classes. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
