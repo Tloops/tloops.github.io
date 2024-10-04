@@ -53,4 +53,4 @@ As this is the last year of my master's degree, now I am actively looking for Ph
 
 ## Highlights
 
-Remarkably, I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech had taken my classes. And I'm really enjoying teaching Java and helping noobs with fixing their bugs.
+Remarkably, I was teaching Java in SUSTech as a tutor and had gained lots of compliment and supports. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech had taken my classes. And I'm really enjoying teaching and helping noobs with fixing their bugs.
