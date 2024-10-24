@@ -54,3 +54,9 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 ## Highlights
 
 Remarkably, I was teaching Java in SUSTech as a tutor and gained many compliments and support. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech have taken my classes. And I'm enjoying teaching and helping noobs with fixing their bugs.
+
+## Hobbies
+
+Beyond academics, I have a wide range of interests. I enjoy singing and sometimes rap. I have performed on many big stages (though they weren't actually that big, haha). 
+
+Recently, I've become fascinated with board games, particularly strategy ones like **Ark Nova**, for their strategic depth and requirement for long-term planning and rational competition.
