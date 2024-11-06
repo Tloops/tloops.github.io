@@ -14,14 +14,16 @@ I held a volunteered final review session of this course in Fall 2021.
 
 ## Course Intro
 
-Introduction to Computer Science was a course for freshman, and was mandatory if they failed in the placement exam of computer basic knowledge at the beginning of the semester. However, However, this course involves a vast amount of computer-related knowledge, such as Turing machines, algorithms, programming languages, operating systems, etc., and did not take into account the understanding ability of freshmen. In addition, the teacher of this course is quite strict, which makes many students hate this course. In order to let students regain their interest in computers and to improve their grades, I opened this review course.
+The "Introduction to Computer Science" course was mandatory for freshman who failed in the placement exam of basic computer knowledge at the beginning of the semester. However, this course covered a wide range of complex topics, including Turing machines, algorithms, programming languages, and operating systems, without considering the varying levels of understanding among freshmen. Additionally, the strict teaching approach has led to a negative perception of the course among many students. In order to let students regain their interest in computer science and improve their grades, I opened this review course.
+
+PS: This course has been canceled since 2022 regarding the retirement of the instructor.
 
 
 
 ## Duties
 
-- Write courseware by myself in Chinese ([GitHub Link](https://github.com/Tloops/CS101B_I2CSB))
-- The overall rating of this course has increased by 8 points compared to Fall 2020
+- Wrote courseware by myself in Chinese ([GitHub Link](https://github.com/Tloops/CS101B_I2CSB)).
+- The overall grade of this course has increased by 8 points compared to previous year (Fall 2020).
 
 
 
