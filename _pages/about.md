@@ -9,9 +9,11 @@ redirect_from:
 
 Hi there, welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in the [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). I am passionate about medical image analysis and eager to learn the state-of-the-art advances in deep learning. I'm currently working on Optical Coherence Tomography (OCT) segmentation. 
+I'm Qiushi Nie (聂秋实), currently pursuing master's degree at [Southern University of Science and Technology (SUSTech)](www.sustech.edu.cn) in the [iMED](https://www.imed-lab.com/) research group supervised by [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ). I received my B.Eng. in Computer Science and Technology from [SUSTech](https://www.sustech.edu.cn/en/) in 2022.
 
-As this is the last year of my master's degree, I am now actively looking for PhD opportunities related to medical image analysis and computer vision! 
+My research goal is to develop deep learning algorithms that can be applied to medical images to assist doctors in diagnosis and surgical planning and benefit people's health. To this end, my interests lie at the intersection of deep learning, medical image analysis, and computer vision. Currently, I'm working on Optical Coherence Tomography (OCT) segmentation.
+
+As this is the last year of my master's degree, I am now actively looking for PhD opportunities! 
 
 ## Research Interests 💻
 
