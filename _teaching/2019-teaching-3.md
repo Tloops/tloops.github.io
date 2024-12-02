@@ -14,13 +14,13 @@ location: "Shenzhen, China"
 
 ## Duties
 
-### After-school Tutor :man_teacher:
+### After-school Tutor
 
-- write courseware by myself in Chinese ([GitHub Link](https://github.com/Tloops/Java-Courseware))
 - gave extra lectures of the course every weekend, provide assistance to students’ coursework.
   - homework debugging (debugging is painful!)
 - held review sessions every semester before final exam.
   - Remarkably, my classes were so popular that more than 1600 students (40% of total undergraduates in SUSTech) had taken my classes.
+- wrote courseware by myself in Chinese ([GitHub Link](https://github.com/Tloops/Java-Courseware)). Special thank to [Shilong Li](https://lethal233.github.io/) for his contribution to my courseware repo.
 
 
 
