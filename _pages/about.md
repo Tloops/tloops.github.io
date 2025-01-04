@@ -34,7 +34,7 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 
 [1] **Nie, Q.**, Zhang, X., Hu, Y. et al. **Medical image registration and its application in retinal images: a review.** *Vis. Comput. Ind. Biomed. Art* 7, 21 (2024). [https://doi.org/10.1186/s42492-024-00173-8](https://doi.org/10.1186/s42492-024-00173-8) (Accepted)
 
-[2] **Nie, Q.**, Zhang, X., Chen, C. et al. **Reparameterized multi-scale transformer for deformable retinal image registration.** *Mach. Intell. Res.* (2024). [https://doi.org/10.1007/s11633-024-1525-1](https://doi.org/10.1007/s11633-024-1525-1) ([GitHub](https://github.com/Tloops/RMFormer)) (Accepted) 
+[2] **Nie, Q.**, Zhang, X., Chen, C. et al. **Reparameterized multi-scale transformer for deformable retinal image registration.** *Mach. Intell. Res.* (2024). [https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1](https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1) ([GitHub](https://github.com/Tloops/RMFormer)) (Accepted) 
 
 [3] Zhang, X., **Nie, Q.**, Xiao, Z., et al. **Dual-view pyramid pooling in deep neural networks for improved medical image classification and confidence calibration.** (2024) (Under Review, arXiv preprint available: [https://arxiv.org/abs/2408.02906](https://arxiv.org/abs/2408.02906))
 
