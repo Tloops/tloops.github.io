@@ -57,8 +57,14 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 
 Remarkably, I was teaching Java in SUSTech as a tutor and gained many compliments and support. Until now, nearly **1,600+** students (40% of total undergraduates) in SUSTech have taken my classes. And I'm enjoying teaching and helping noobs with fixing their bugs.
 
+My research group, iMED, has just started to explore Education Intelligence, which aims to empower education with AI. I am one of the core members. I like to help others, and it would be even cooler if I could design an AI assistant to make help more convenient and timely!
+
 ## Hobbies
 
 Beyond academics, I have a wide range of interests. I enjoy singing and sometimes rap. I have performed on many big stages (though they weren't actually that big, haha). 
 
 Recently, I've become fascinated with board games, particularly strategy ones like **Ark Nova**, for their strategic depth and requirement for long-term planning and rational competition.
+
+
+
+Last Updated on: Jan. 14th, 2025
