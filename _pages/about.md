@@ -72,4 +72,4 @@ Recently, I've become fascinated with board games, particularly strategy ones li
 
 
 
-Last Updated on: Jan. 14th, 2025
+Last Updated on: Feb. 18th, 2025
