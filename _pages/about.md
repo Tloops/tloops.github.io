@@ -18,7 +18,7 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 ## News 🔥
 
 - [2025/2/18] Our textbook *Artificial Intelligence Multimedia Computing* has been published. I'm the 3rd author!
-- [2024/12/26] My paper *Reparameterized Multi-scale Transformer for Deformable Retinal Image Registration* is available online at https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1.
+- [2024/12/26] My paper *Reparameterized Multi-scale Transformer for Deformable Retinal Image Registration* is available online. [Paper link](https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1) here.
 
 ## Research Interests 💻
 
