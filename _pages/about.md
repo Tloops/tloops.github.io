@@ -15,6 +15,11 @@ My research goal is to develop deep learning algorithms that can be applied to m
 
 As this is the last year of my master's degree, I am now actively looking for PhD opportunities! 
 
+## News 🔥
+
+- [2025/2/18] Our textbook *Artificial Intelligence Multimedia Computing* has been published. I'm the 3rd author!
+- [2024/12/26] My paper *Reparameterized Multi-scale Transformer for Deformable Retinal Image Registration* is available online at https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1.
+
 ## Research Interests 💻
 
 - Medical Image Analysis, Medical Image Registration, Computer Vision
@@ -38,7 +43,7 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 
 [3] Zhang, X., **Nie, Q.**, Xiao, Z., et al. **Dual-view pyramid pooling in deep neural networks for improved medical image classification and confidence calibration.** (2024) (Under Review, arXiv preprint available: [https://arxiv.org/abs/2408.02906](https://arxiv.org/abs/2408.02906))
 
-[4] Liu, J., Li S., **Nie, Q.**, Zhang, X. **多媒体智能计算（Multimedia Intelligent Computing）**   (2024) (Manuscript under review, Chinese Textbook)
+[4] Liu, J., Li S., **Nie, Q.**, Zhang, X. **人工智能多媒体计算（Artificial Intelligence Multimedia Computing）** (2025) ISBN 978-7-115-66170-8 (Chinese Textbook)
 
 [5] Zhou, X., Hao, L., **Nie, Q.**, et al. **A novel multi-focus fusion network for retinal microsurgery**. *2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2022: 1-5. (Accepted)
 
