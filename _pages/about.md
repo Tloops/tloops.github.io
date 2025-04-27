@@ -41,22 +41,24 @@ As this is the last year of my master's degree, I am now actively looking for Ph
 
 [2] **Nie, Q.**, Zhang, X., Chen, C. et al. **Reparameterized multi-scale transformer for deformable retinal image registration.** *Mach. Intell. Res.* (2024). [https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1](https://www.mi-research.net/article/doi/10.1007/s11633-024-1525-1) ([GitHub](https://github.com/Tloops/RMFormer)) (Accepted) 
 
-[3] Zhang, X., **Nie, Q.**, Xiao, Z., et al. **Dual-view pyramid pooling in deep neural networks for improved medical image classification and confidence calibration.** (2024) (Under Review, arXiv preprint available: [https://arxiv.org/abs/2408.02906](https://arxiv.org/abs/2408.02906))
+[3] Zhang, X., **Nie, Q.**, Xiao, Z., et al. **Dual-view pyramid pooling in deep neural networks for improved medical image classification and confidence calibration.** (2024) (Under Review, arXiv preprint available: [https://arxiv.org/abs/2408.02906](https://arxiv.org/abs/2408.02906)) 
 
-[4] Liu, J., Li S., **Nie, Q.**, Zhang, X. **人工智能多媒体计算（Artificial Intelligence Multimedia Computing）** (2025) ISBN 978-7-115-66170-8 (Chinese Textbook)
+[4] Liu, J., Nie, Q., Wang, X., et al. **Exploration of weakly supervised learning pedagogy in the context of generative artificial intelligence**. *Computer Education.* (2025).
 
-[5] Zhou, X., Hao, L., **Nie, Q.**, et al. **A novel multi-focus fusion network for retinal microsurgery**. *2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2022: 1-5. (Accepted)
+[5] Liu, J., Li S., **Nie, Q.**, Zhang, X. **人工智能多媒体计算（Artificial Intelligence Multimedia Computing）** (2025) ISBN 978-7-115-66170-8 (Chinese Textbook)
 
-[6] Hu, Y., Dong, S., Gong, M., **Nie, Q.**, Liu, J. **Self-Supervised Structure-Preserved Image Registration Framework for Multimodal Retinal Images.** *2023 6th International Conference on Information Communication and Signal Processing (ICICSP)*. IEEE, 2023: 134-138. (Accepted)
+[6] Zhou, X., Hao, L., **Nie, Q.**, et al. **A novel multi-focus fusion network for retinal microsurgery**. *2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2022: 1-5. (Accepted)
+
+[7] Hu, Y., Dong, S., Gong, M., **Nie, Q.**, Liu, J. **Self-Supervised Structure-Preserved Image Registration Framework for Multimodal Retinal Images.** *2023 6th International Conference on Information Communication and Signal Processing (ICICSP)*. IEEE, 2023: 134-138. (Accepted)
 
 ## Honors & Awards 🏆
 
-- [2018-2020] The second prize of outstanding student scholarship in SUSTech
-- [2020-2021] The first prize of outstanding student scholarship in SUSTech
+- [2019, 2020] The second prize of outstanding student scholarship in SUSTech
+- [2021] The first prize of outstanding student scholarship in SUSTech
 - [2022] The Outstanding Graduates Prize in the Department of Computer Science and Engineering, SUSTech
 - [2022] The Top Ten Graduates Nomination Award in SUSTech
-- [2023] The Star of iMED Award (for those who contributed most in my research group iMED)
-- [2021-2023] The Outstanding Teaching Assistant in SUSTech
+- [2023, 2024] The Star of iMED Award (for those who contributed most in my research group iMED)
+- [2021- 2023] The Outstanding Teaching Assistant in SUSTech
 
 ## Highlights
 
@@ -72,4 +74,4 @@ Recently, I've become fascinated with board games, particularly strategy ones li
 
 
 
-Last Updated on: Feb. 18th, 2025
+Last Updated on: Apr. 28th, 2025
